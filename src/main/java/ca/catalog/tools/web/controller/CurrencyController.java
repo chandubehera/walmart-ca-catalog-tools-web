@@ -17,5 +17,7 @@ public class CurrencyController {
     public CurrencyConversionResponse convertCurrency(@RequestBody CurrencyConversionRequest request) {
         return currencyService.convertCurrency(request);
     }
+
+
 }
 

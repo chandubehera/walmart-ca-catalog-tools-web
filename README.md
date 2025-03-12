@@ -3,7 +3,7 @@ http://localhost:8084/h2-console
 
 JDBC URL: jdbc:h2:mem:currencydb
 Username: sa
-Password: password
+Password: 
 Test API with Postman:
 
 POST /api/currency/convert
